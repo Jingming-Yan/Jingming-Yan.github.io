@@ -12,7 +12,7 @@ Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Conve
 
 
 
-<br><br>
+<br><br><br><br>
 
 ### News
 
@@ -26,4 +26,3 @@ Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Conve
 
 06/2024: I will be visiting [Archimedes Research Unit](https://archimedesai.gr/en/) this summer as a student researcher for two months. 
 
-</p>
