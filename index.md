@@ -3,7 +3,9 @@ layout: page
 title: "Welcome"
 ---
 
-![](assets/Website%20photo.jpg)
+<p align="center">
+  <img src="assets/Website%20photo.jpg" alt="Website photo" width="400">
+</p>
 
 Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Convex/Nonconvex Optimization.
 
