@@ -12,7 +12,7 @@ Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Conve
 
 
 
-<p style="margin-top:100px;">
+<br><br>
 
 ### News
 
