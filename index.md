@@ -3,18 +3,11 @@ layout: page
 title: "Welcome"
 ---
 
-<div style="display: flex; align-items: left;">
-  <img src="assets/Website%20photo.jpg" alt="Website photo" width="250" style="margin-right:15px;">
-  <div>
-    <p>
+<img src="assets/Website%20photo.jpg" alt="Website photo" width="250" align="left" style="margin-right:15px;" />
+
       I am a third year PhD student at the [Department of Computer Science at University of California, Irvine](https://cs.ics.uci.edu/) where I am fortunate to be advised by Prof. [Ioannis Panageas](https://panageas.github.io/) with my research focusing on algorithmic game theory and machine learning. Prior to that, I obtained a BS degree at Department of Mathmatics at University of California, Irvine. Here you can find my [CV](https://Jingming-Yan.github.io/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=XXg_F6AAAAAJ&hl=en) profile.
 
 Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Convex/Nonconvex Optimization.
-    </p>
-  </div>
-</div>
-
-
 
 
 <br><br><br><br>
