@@ -3,6 +3,9 @@ layout: page
 title: "Publications"
 ---
 
+(<span style="color: #f03c15;">Arxiv) On the Computational Complexity of Performative Prediction
+(with Ioannis Anagnostides, Rohan Chauhan, Ioannis Panageas, and Tuomas Sandholm) [[Arxiv](https://arxiv.org/abs/2601.20180)]
+
 (<span style="color: #f03c15;">NeurIPS 2025 Spotlight</span>) The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games
 (with Ioannis Anagnostides, Ioannis Panageas, and Tuomas Sandholm) [[Arxiv](https://www.arxiv.org/abs/2502.08519)]
 
