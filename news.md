@@ -3,6 +3,9 @@ layout: page
 title: "Publications"
 ---
 
+(<span style="color: #f03c15;">Arxiv 2026</span>) The Computational Complexity of Team Zero-Sum Games
+(with Ioannis Anagnostides, Ioannis Panageas, and Tuomas Sandholm) [[Arxiv](https://arxiv.org/abs/2606.16139)]
+
 (<span style="color: #f03c15;">ICML 2026</span>) On the Computational Complexity of Performative Prediction
 (with Ioannis Anagnostides, Rohan Chauhan, Ioannis Panageas, and Tuomas Sandholm) [[Arxiv](https://arxiv.org/abs/2601.20180)]
 
