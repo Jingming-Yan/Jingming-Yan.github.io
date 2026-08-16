@@ -13,15 +13,17 @@ Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Conve
 <br><br><br><br>
 
 ### News
+06/2026: I am joining Optiver as a QR intern this summer.
+
 04/2026: One paper got accepted in ICML 2026.
 
 09/2025: Two papers got accepted in NeurIPS 2025 (one spotlight), see you in San Diego!
 
-06/2025: I will be visiting [Archimedes Research Unit](https://archimedesai.gr/en/) this summer as a student researcher for two months. 
+06/2025: I will be visiting [Archimedes Research Unit](https://archimedesai.gr/en/) this summer as a student researcher. 
 
 05/2025: Invited talk at [UC Irvine ACO center](https://acoi.ics.uci.edu/), title "On Recent Advances in Computational Complexity of Min-Max Optimization and Beyond".
 
 09/2024: My first paper got accepted in NeurIPS 2024, see you in Vancouver!
 
-06/2024: I will be visiting [Archimedes Research Unit](https://archimedesai.gr/en/) this summer as a student researcher for two months. 
+06/2024: I will be visiting [Archimedes Research Unit](https://archimedesai.gr/en/) this summer as a student researcher. 
 
