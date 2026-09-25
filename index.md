@@ -13,6 +13,8 @@ Research interests: Game Theory, Min-Max Optimization, Multi-Agent RL, and Conve
 <br><br><br><br>
 
 ### News
+09/2026: One paper got accepted in NeurIPS 2026.
+
 06/2026: I am joining Optiver as a QR intern this summer.
 
 04/2026: One paper got accepted in ICML 2026.
