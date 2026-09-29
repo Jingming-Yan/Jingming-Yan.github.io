@@ -5,7 +5,7 @@ title: "Publications"
 (<span style="color: #f03c15;">Arxiv</span>) Finding a Positive Index Nash Equilibrium is PPADS-Complete
 (with Andreas Kontogiannis, Ioannis Panageas, and Vasilis Pollatos) [[Arxiv](https://arxiv.org/abs/2609.23879)]
 
-(<span style="color: #f03c15;">Arxiv</span>) The Computational Complexity of Team Zero-Sum Games
+(<span style="color: #f03c15;">SODA 2027</span>) The Computational Complexity of Team Zero-Sum Games
 (with Ioannis Anagnostides, Ioannis Panageas, and Tuomas Sandholm) [[Arxiv](https://arxiv.org/abs/2606.16139)]
 
 (<span style="color: #f03c15;">NeurIPS 2026</span>) Efficient Computation and Best-Response Dynamics in Anonymous Two-Action Games with Linear Utilities
