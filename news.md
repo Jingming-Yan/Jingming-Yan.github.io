@@ -2,6 +2,9 @@
 layout: page
 title: "Publications"
 ---
+(<span style="color: #f03c15;">Arxiv</span>) The Complexity of Nash Equilibrium in Network Congestion and Coordination Games
+(with Ioannis Anagnostides and Ioannis Panageas) [[Arxiv](https://arxiv.org/abs/2609.33225)]
+
 (<span style="color: #f03c15;">Arxiv</span>) Finding a Positive Index Nash Equilibrium is PPADS-Complete
 (with Andreas Kontogiannis, Ioannis Panageas, and Vasilis Pollatos) [[Arxiv](https://arxiv.org/abs/2609.23879)]
 
