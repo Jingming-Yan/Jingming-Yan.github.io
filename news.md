@@ -2,6 +2,9 @@
 layout: page
 title: "Publications"
 ---
+(<span style="color: #f03c15;">Arxiv</span>) On the Role of Geometry in Solving Variational Inequalities
+(with Ioannis Anagnostides and Ioannis Panageas) [[Arxiv](https://arxiv.org/abs/2611.04151)]
+
 (<span style="color: #f03c15;">Arxiv</span>) The Complexity of Nash Equilibrium in Network Congestion and Coordination Games
 (with Ioannis Anagnostides and Ioannis Panageas) [[Arxiv](https://arxiv.org/abs/2609.33225)]
 
